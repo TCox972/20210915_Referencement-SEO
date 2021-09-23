@@ -382,6 +382,7 @@ a:hover {
         text-align: center;
     }
     .nav-center .navbar-header {
+        
         width: 100%;
     }
     .nav-center .navbar-header,
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -736,7 +737,7 @@ h4 {
 }
 
 .white {
-    font-size: 1em;
+    font-size: 16px;
     color: #FFFFFF!important;
 }
 
