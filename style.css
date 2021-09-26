@@ -647,13 +647,20 @@ h4,
 h5,
 h6,
 p,
-label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
+
+label {
+    font-family: "helvetica";
+    font-weight: bold;
+    font-size: 16px;
+    color: #575757;
+}
+
 
 .container {
     max-width: 1000px;
@@ -744,7 +751,7 @@ h4 {
 .black{
     font-size: 16px;
     font-weight: 600;
-    color: black!important;
+    color: #414141!important;
 }
 
 
@@ -805,7 +812,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #414141!important;
 }
 
 .btn-atomic-tangerine:hover {
