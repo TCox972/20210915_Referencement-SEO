@@ -771,6 +771,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
+    height: auto;
 }
 
 .portfolio-row {
@@ -996,8 +998,8 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        height: 40px;
-        width: auto;
+        height: auto;
+        width: 100%;
     }
     .nav-invert .navbar-header {
         float: none;
