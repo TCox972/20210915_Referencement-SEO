@@ -814,6 +814,12 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.tc-white3 {
+    color: #F3976C!important;
+    font-weight: 800;
+    font-size: 24px;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #414141!important;
@@ -998,7 +1004,7 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        height: auto;
+        height: 40px;
         width: 100%;
     }
     .nav-invert .navbar-header {
